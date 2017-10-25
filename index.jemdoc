@@ -1,0 +1,47 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Guohang Zeng
+
+~~~
+{Guohang Zeng}{img_left}{images/photo.jpg}{alt text}{160px}{160px}{images/photo.jpg}
+
+Research Assistant 
+
+[http://cv.szu.edu.cn/ Institute of Computer Vision]
+
+Shenzhen Univerisity
+
+E-mail: ghzeng.cs\[at\]hotmail.com
+~~~
+
+
+
+== About me
+
+
+I'm a research assistant at [http://cv.szu.edu.cn/ Institute of Computer Vision], [http://www1.szu.edu.cn/2014/en/ Shenzhen Univerisity], working with [https://www.researchgate.net/profile/Linlin_Shen Prof. Linlin Shen]. In the meantime, I'm also a computer vision engineer at [http://www.taisau.com/ Taisau], providing industrial level face recognition algorithms for the company. Previously, I received my Bachelors in Computer Science from Shenzhen University in 2016.
+
+My research interest broadly lies in deep learning, with a particular focus on
+- Deep representation learning and its applications on computer vision
+- Convolutional neural network acceleration
+- Interpretability of deep visual representation.
+
+Here's my [docs/cv.pdf CV], I have strong interest in research, planning to pursue a Ph.D. 
+ 
+\n
+
+== Selectect Publications
+
+=== Hand-crafted Feature Guided Deep Learning for Facial Expression Recognition
+*Guohang Zeng*, Jiancan Zhou, Xi Jia, Weicheng Xie and Linlin Shen, /in submitting to FG 2018/ 
+
+=== Joint and collaborative representation with local adaptive convolution feature for face recognition with single sample per person
+Meng Yang, Xin Wang, *Guohang Zeng* and Linlin Shen, /Pattern Recognition**, 2017, 66(C):117-128./ \[[docs/PR16.pdf pdf]\]
+
+
+== Projects
+
+=== Deep face representaion for face verification
+I implemented CNN models for high accuracy face verification, combined with various state of the art approaches, including: age-invariant face representation, deep metric learning, Inception-Residual CNN architecture, joint-bayesian metric, CNN ensemble and domain adaptation. Our applications has been adopted by Shenzhen Government.  [http://idcheck.cn/archives/405  (media report)]
+
+=== Convolutional neural network acceleration
+For lowering down the latency of CNN forward computation, I accelerating CNN models by using various approaches, including: depthwise separable convolution, low rank approximation and structural network pruning. We achieved 1.6x to 2.0x speedup ratio based on the network architecture.
