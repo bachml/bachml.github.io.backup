@@ -2,11 +2,13 @@
 ==Guohang Zeng
 
 ~~~
-{Guohang Zeng}{img_left}{images/photo.jpg}{alt text}{160px}{160px}{images/photo.jpg}
+{Guohang Zeng}{img_left}{images/photo.png}{alt text}{156px}{200px}{images/photo.png}
+
+Guohang Zeng(曾国航)
 
 Research Assistant 
 
-[http://cv.szu.edu.cn/ Institute of Computer Vision]
+Institute of Computer Vision
 
 Shenzhen Univerisity
 
@@ -29,7 +31,7 @@ Here's my [docs/cv.pdf CV], I have strong interest in research, planning to purs
  
 \n
 
-== Selected Publications
+== Selected Publications & Tech Reports
 
 === Hand-crafted Feature Guided Deep Learning for Facial Expression Recognition
 *Guohang Zeng*, Jiancan Zhou, Xi Jia, Weicheng Xie and Linlin Shen, /in submitting to FG 2018/ 
@@ -40,8 +42,8 @@ Meng Yang, Xin Wang, *Guohang Zeng* and Linlin Shen, /Pattern Recognition**, 201
 
 == Projects
 
-=== Deep face representaion for face verification
-I implemented CNN models for high accuracy face verification, combined with various state of the art approaches, including: age-invariant face representation, deep metric learning, Inception-Residual CNN architecture, joint-bayesian metric, CNN ensemble and domain adaptation. Our applications has been adopted by Shenzhen Government.  [http://idcheck.cn/archives/405  (media report)]
+=== Deep face representaion for face recognition
+I implemented CNN models for high accuracy face recognition, combined with various state of the art approaches, including: age-invariant face representation, deep metric learning, Inception-Residual CNN architecture, joint-bayesian metric, CNN ensemble and domain adaptation. Our applications has been adopted by Shenzhen Government.  [http://idcheck.cn/archives/405  (report)]
 
 === Convolutional neural network acceleration
-For lowering down the latency of CNN forward computation, I accelerating CNN models by using various approaches, including: depthwise separable convolution, low rank approximation and structural network pruning. We achieved 1.6x to 2.0x speedup ratio based on network architecture.
+For lowering down the latency of CNN forward computation, I accelerated CNN models by using various approaches, including: depthwise separable convolution, low rank approximation and structural network pruning. We achieved 1.6x to 2.0x speedup ratio depends on network architecture.
